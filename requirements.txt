@@ -1,2 +1,2 @@
 streamlit
-hf-transfer
+huggingface_hub
